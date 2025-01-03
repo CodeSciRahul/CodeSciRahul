@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to My GitHub Profile
 
 ## 🌟 About Me
-Hi! I'm [Your Name], a passionate developer with expertise in a variety of programming languages, frameworks, and tools. My goal is to create innovative, efficient, and scalable solutions.
+Hi! I'm Rahul Kumar, a passionate MERN stack developer specialized in frontend development.
 
 ---
 
@@ -36,21 +36,3 @@ Hi! I'm [Your Name], a passionate developer with expertise in a variety of progr
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
 </p>
-
-
----
-
-## 📈 Top Languages by Commit:
-```json
-{
-  "TypeScript": "40%",
-  "Python": "30%",
-  "JavaScript": "20%",
-  "Jupyter Notebook": "10%"
-}
-
-
-### Instructions:
-1. Replace `Rahul Kumar` with your actual GitHub username.
-2. Replace `Rahul Kumar` and other placeholders like email, LinkedIn, and Twitter links with your actual information.
-3. Customize language and tool badges to reflect your skills.
