@@ -20,19 +20,21 @@ Hi! I'm Rahul Kumar, a passionate MERN stack developer specialized in frontend d
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeSciRahul&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSciRahul&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🔥 Contributions:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSciRahul&theme=radical" alt="GitHub Streak" />
 </p>
