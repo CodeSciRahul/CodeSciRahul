@@ -36,5 +36,5 @@ Hi! I'm Rahul Kumar, a passionate MERN stack developer specialized in frontend d
 
 ## 🔥 Contributions:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSciRahul&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSciRahul&theme=radical" alt="GitHub Streak" />
 </p>
