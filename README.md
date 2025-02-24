@@ -5,9 +5,10 @@
 A passionate MERN Stack Developer with strong frontend expertise and solid backend knowledge. Skilled in building user-centric applications with a focus on clean code and performance. Eager to grow through meaningful challenges and contribute effectively in an internship role.  
 
 ## 📬Contact Me
----
+
 - Email: rahulkumarkudra2004@gmail.com
 - LinkedIn: https://linkedin.com/in/rahul-kumar-375781259/
+---
 
 ### 💻 **Hard Skills**
 
