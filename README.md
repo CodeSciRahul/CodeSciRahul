@@ -6,8 +6,8 @@ A passionate MERN Stack Developer with strong frontend expertise and solid backe
 
 ## 📬Contact Me
 ---
-Email: rahulkumarkudra2004@gmail.com
-LinkedIn: linkedin.com/in/rahul-kumar-375781259/
+- Email: rahulkumarkudra2004@gmail.com
+- LinkedIn: https://linkedin.com/in/rahul-kumar-375781259/
 
 ### 💻 **Hard Skills**
 
