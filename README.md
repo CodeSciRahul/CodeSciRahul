@@ -4,7 +4,6 @@
 ---
 A passionate MERN Stack Developer with strong frontend expertise and solid backend knowledge. Skilled in building user-centric applications with a focus on clean code and performance. Eager to grow through meaningful challenges and contribute effectively in an internship role.  
 ---
-
 ### 💻 **Hard Skills**
 
 - **Frontend Development:**  
@@ -48,8 +47,6 @@ A passionate MERN Stack Developer with strong frontend expertise and solid backe
 - Docker  
 
 ---
-
-This structure improves readability and presents your skills in a clear, professional manner. Let me know if you need any tweaks! 🚀
 
 ## 📊 GitHub Stats:
 <p align="center">
