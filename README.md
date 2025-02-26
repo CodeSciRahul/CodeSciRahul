@@ -10,47 +10,20 @@ A passionate MERN Stack Developer with strong frontend expertise and solid backe
 - LinkedIn: https://linkedin.com/in/rahul-kumar-375781259/
 ---
 
-### 💻 **Hard Skills**
+### 🚀 Skills  
 
-- **Frontend Development:**  
-  - TypeScript, React.js, Next.js  
-  - Tailwind CSS, JavaScript, HTML, CSS  
-  - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  
-
-- **Backend Development:**  
-  - Node.js, Express.js, Next.js  
-  - MongoDB, PostgreSQL (Neon), SQLite, Redis  
-  - Drizzle ORM, Clerk, Socket.io, JWT  
-
-- **Programming Languages:**  
-  - C, C++, JavaScript, TypeScript  
-
-- **Algorithms & Data Structures:**  
-  - Strong foundation in DSA  
-
-- **Cloud & Services:**  
-  - AWS (S3, SES)  
-
-- **Other Technologies:**  
-  - Bun, Yarn, npm  
-
----
-
-### 🤝 **Soft Skills**
-
-- Team Collaboration  
-- Problem-Solving  
-- Critical Thinking  
-- Adaptability  
-- Communication  
-
----
-
-### 🛠️ **Tools**
-
-- Git & GitHub  
-- Postman  
-- Docker  
+| 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
+|--------------|--------------|-----------|  
+| - TypeScript, React.js, Next.js  | - Team Collaboration  | - Git & GitHub  |  
+| - Tailwind CSS, JavaScript, HTML, CSS  | - Problem-Solving  | - Postman  |  
+| - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  | - Critical Thinking  | - Docker  |  
+| - Node.js, Express.js, Next.js  | - Adaptability  |   |  
+| - MongoDB, PostgreSQL (Neon), SQLite, Redis  | - Communication  |   |  
+| - Drizzle ORM, Clerk, Socket.io, JWT  |   |   |  
+| - C, C++, JavaScript, TypeScript  |   |   |  
+| - Strong foundation in Data Structures & Algorithms  |   |   |  
+| - AWS (S3, SES)  |   |   |  
+| - Bun, Yarn, npm  |   |   |  
 
 ---
 
