@@ -17,7 +17,7 @@ A passionate MERN Stack Developer with strong frontend expertise and solid backe
 | - TypeScript, React.js, Next.js  | - Team Collaboration  | - Git & GitHub & GitLab  |  
 | - Tailwind CSS, JavaScript, HTML, CSS  | - Problem-Solving  | - Postman  |  
 | - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  | - Critical Thinking  | - Docker  |  
-| - Node.js, Express.js, Next.js  | - Adaptability  |   | - vsCode, Cursor, Replit.
+| - Node.js, Express.js, Next.js  | - Adaptability  | - vsCode & Cursor & Replit |.
 | - MongoDB, PostgreSQL (Neon), SQLite, Redis  | - Communication  |   |  
 | - Drizzle ORM, Clerk, Socket.io, JWT, n8n(workflow automation platform)  |   |   |  
 | - C, C++, JavaScript, TypeScript  |   |   |  
