@@ -14,16 +14,16 @@ A passionate MERN Stack Developer with strong frontend expertise and solid backe
 
 | 💻 Hard Skills | 🤝 Soft Skills | 🛠️ Tools |  
 |--------------|--------------|-----------|  
-| - TypeScript, React.js, Next.js  | - Team Collaboration  | - Git & GitHub  |  
+| - TypeScript, React.js, Next.js  | - Team Collaboration  | - Git & GitHub & GitLab  |  
 | - Tailwind CSS, JavaScript, HTML, CSS  | - Problem-Solving  | - Postman  |  
 | - Redux, RTK Query, ShadCN UI, MUI, Radix UI, Bootstrap  | - Critical Thinking  | - Docker  |  
-| - Node.js, Express.js, Next.js  | - Adaptability  |   |  
+| - Node.js, Express.js, Next.js  | - Adaptability  |   | - vsCode, Cursor, Replit.
 | - MongoDB, PostgreSQL (Neon), SQLite, Redis  | - Communication  |   |  
-| - Drizzle ORM, Clerk, Socket.io, JWT  |   |   |  
+| - Drizzle ORM, Clerk, Socket.io, JWT, n8n(workflow automation platform)  |   |   |  
 | - C, C++, JavaScript, TypeScript  |   |   |  
 | - Strong foundation in Data Structures & Algorithms  |   |   |  
-| - AWS (S3, SES)  |   |   |  
-| - Bun, Yarn, npm  |   |   |  
+| - AWS (S3, SES, SQS, EC2)  |   |   |  
+| - Bun, Yarn, npm, Pnpm  |   |   |  
 
 ---
 
